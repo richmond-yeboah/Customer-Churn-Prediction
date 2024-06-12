@@ -1,0 +1,26 @@
+# Core Libraries
+numpy==1.24.3
+pandas==1.5.3
+
+# Data Visualization Libraries
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning Libraries
+scikit-learn==1.2.2
+
+# Deep Learning Libraries (if applicable)
+tensorflow==2.12.0
+keras==2.12.0
+
+# Model Evaluation Libraries
+scipy==1.10.1
+
+# Other Utilities
+jupyter==1.0.0
+notebook==6.5.4
+
+# Deployment Libraries (if applicable)
+flask==2.2.5
+gunicorn==20.1.0
+
