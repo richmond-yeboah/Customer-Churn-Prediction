@@ -12,7 +12,7 @@
 
 ## Project Description
 
-This is a live project that dives into the customer data of a telco company to unveil insights and hidden patterns about customers and what might be their reasons for churning so that the company can come up with customer retention strtagies. Also, an ML model will be built to help make churn predictions that can help the company tailor solutions to customers before they churn.
+This project dives into the customer data of a telco company to unveil insights and hidden patterns about customers and what might be their reasons for churning so that the company can come up with customer retention strtagies. Also, an ML model will be built to help make churn predictions that can help the company tailor solutions to customers before they churn.
 
 The success criteria of this project lies in building a highly accurate and interpretable machine learning model. This will require carefully chosen data features, effective model selection, and rigorous evaluation techniques. Ultimately, this project aims to equip companies with a powerful tool to combat customer churn and achieve sustainable growth.
 
